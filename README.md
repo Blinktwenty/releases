@@ -80,10 +80,10 @@ Blink20 is free for everyone. If we've helped your eyes feel better, consider bu
 
 ## Who We Are
 
-Blink20 is built at the University of Toronto, Schwartz Reisman Innovation Campus (108 College St., Suite W754, Toronto, ON, Canada), supported by URITECT and the U of T entrepreneurship community.
+Blink20 is built at the University of Toronto, Schwartz Reisman Innovation Campus (108 College St., Suite W754, Toronto, ON, Canada), by [Uritect Inc.](https://uritect.com).
 
 - Website: [blink20.com](https://blink20.com)
-- Contact: [team@blink20.com](mailto:team@blink20.com)
+- Contact: [support@blink20.com](mailto:support@blink20.com)
 - GitHub: [github.com/Blinktwenty](https://github.com/Blinktwenty)
 
 ## Disclaimer
@@ -97,5 +97,5 @@ Blink20 is free to download and use. Redistribution or modification of the binar
 ---
 
 <div align="center">
-  <sub>© 2026 Blink20 Co.</sub>
+  <sub>© 2026 Uritect Inc. All rights reserved.</sub>
 </div>
