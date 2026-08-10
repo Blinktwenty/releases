@@ -50,8 +50,8 @@ Official builds are published on the [Releases page](https://github.com/Blinktwe
 | macOS (Apple Silicon) | Available | [Blink20-1.0.0.dmg](https://github.com/Blinktwenty/releases/releases/download/v1.0.0/Blink20-1.0.0.dmg) |
 | Windows | Available | [Blink20-1.0.0.msi](https://github.com/Blinktwenty/releases/releases/download/v1.0.0/Blink20-1.0.0.msi) |
 | Linux (Debian/Ubuntu, amd64) | Available | [Blink20-1.0.0.deb](https://github.com/Blinktwenty/releases/releases/download/v1.0.0/Blink20-1.0.0.deb) |
-| iOS | Coming soon | |
-| Android | Coming soon | |
+| iOS | Available | [App Store](https://apps.apple.com/ca/app/blink20/id6790842122) |
+| Android | Available | [Google Play](https://play.google.com/store/apps/details?id=blink20.main.app) |
 
 ### Installing on macOS
 
