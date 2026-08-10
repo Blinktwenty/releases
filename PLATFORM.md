@@ -2,7 +2,7 @@
 
 This branch tracks Linux build documentation and release notes for Blink20.
 
-**Status:** Coming soon
+**Status:** Available (Debian/Ubuntu, amd64)
 
 ## Releases
 
@@ -10,4 +10,4 @@ Linux binaries are attached to the shared [Releases page](https://github.com/Bli
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| — | — | No builds published yet |
+| [v1.0.0](https://github.com/Blinktwenty/releases/releases/tag/v1.0.0) | 2026-08-10 | First public Linux build (.deb, amd64) |
