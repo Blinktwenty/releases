@@ -10,7 +10,7 @@ Build better screen habits with intelligent on-device AI.
 [![License: Freeware](https://img.shields.io/badge/license-Freeware-04241b?style=flat)](LICENSE)
 [![macOS](https://img.shields.io/badge/macOS-available-1cb954?style=flat&logo=apple&logoColor=white)](https://github.com/Blinktwenty/releases/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-available-1cb954?style=flat&logo=windows&logoColor=white)](https://github.com/Blinktwenty/releases/releases/latest)
-[![Linux](https://img.shields.io/badge/Linux-coming%20soon-9e9e9e?style=flat)](https://github.com/Blinktwenty/releases)
+[![Linux](https://img.shields.io/badge/Linux-available-1cb954?style=flat&logo=linux&logoColor=white)](https://github.com/Blinktwenty/releases/releases/latest)
 
 [![Website](https://img.shields.io/badge/blink20.com-visit-04241b?style=flat)](https://blink20.com)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support%20us-ffdd00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/blink20)
@@ -49,7 +49,7 @@ Official builds are published on the [Releases page](https://github.com/Blinktwe
 | --- | --- | --- |
 | macOS (Apple Silicon) | Available | [Blink20-1.0.0.dmg](https://github.com/Blinktwenty/releases/releases/download/v1.0.0/Blink20-1.0.0.dmg) |
 | Windows | Available | [Blink20-1.0.0.msi](https://github.com/Blinktwenty/releases/releases/download/v1.0.0/Blink20-1.0.0.msi) |
-| Linux | Coming soon | |
+| Linux (Debian/Ubuntu, amd64) | Available | [Blink20-1.0.0.deb](https://github.com/Blinktwenty/releases/releases/download/v1.0.0/Blink20-1.0.0.deb) |
 | iOS | Coming soon | |
 | Android | Coming soon | |
 
@@ -64,6 +64,12 @@ Official builds are published on the [Releases page](https://github.com/Blinktwe
 1. Download the latest `.msi` from the [Releases page](https://github.com/Blinktwenty/releases/releases/latest).
 2. Run the installer. It isn't code-signed yet, so Windows SmartScreen may warn about an unrecognized publisher — choose More info, then Run anyway.
 3. Follow the setup wizard; Blink20 is added to the Start Menu.
+
+### Installing on Linux
+
+1. Download the latest `.deb` from the [Releases page](https://github.com/Blinktwenty/releases/releases/latest).
+2. Install it: `sudo apt install ./Blink20-1.0.0.deb` (or open it in a graphical package manager).
+3. Launch Blink20 from your application menu.
 
 ## Repository Layout
 
