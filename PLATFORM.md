@@ -2,7 +2,7 @@
 
 This branch tracks Windows build documentation and release notes for Blink20.
 
-**Status:** Coming soon
+**Status:** Available
 
 ## Releases
 
@@ -10,4 +10,4 @@ Windows binaries are attached to the shared [Releases page](https://github.com/B
 
 | Version | Date | Notes |
 | --- | --- | --- |
-| — | — | No builds published yet |
+| [v1.0.0](https://github.com/Blinktwenty/releases/releases/tag/v1.0.0) | 2026-08-10 | First public Windows build (MSI installer) |

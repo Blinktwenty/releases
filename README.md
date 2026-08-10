@@ -9,7 +9,7 @@
 [![Release: v1.0.0](https://img.shields.io/badge/release-v1.0.0-1cb954?style=flat)](https://github.com/Blinktwenty/releases/releases/latest)
 [![License: Freeware](https://img.shields.io/badge/license-Freeware-04241b?style=flat)](LICENSE)
 [![macOS](https://img.shields.io/badge/macOS-available-1cb954?style=flat&logo=apple&logoColor=white)](https://github.com/Blinktwenty/releases/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-coming%20soon-9e9e9e?style=flat)](https://github.com/Blinktwenty/releases)
+[![Windows](https://img.shields.io/badge/Windows-available-1cb954?style=flat&logo=windows&logoColor=white)](https://github.com/Blinktwenty/releases/releases/latest)
 [![Linux](https://img.shields.io/badge/Linux-coming%20soon-9e9e9e?style=flat)](https://github.com/Blinktwenty/releases)
 
 [![Website](https://img.shields.io/badge/blink20.com-visit-04241b?style=flat)](https://blink20.com)
@@ -52,7 +52,7 @@ All official builds are published on the [Releases page](https://github.com/Blin
 | Platform | Status | Download |
 | --- | --- | --- |
 | macOS (Apple Silicon) | ✅ Available | [Blink20-1.0.0.dmg](https://github.com/Blinktwenty/releases/releases/download/v1.0.0/Blink20-1.0.0.dmg) |
-| Windows | 🚧 Coming soon | — |
+| Windows | ✅ Available | [Blink20-1.0.0.msi](https://github.com/Blinktwenty/releases/releases/download/v1.0.0/Blink20-1.0.0.msi) |
 | Linux | 🚧 Coming soon | — |
 | iOS | 🚧 Coming soon | — |
 | Android | 🚧 Coming soon | — |
@@ -62,6 +62,12 @@ All official builds are published on the [Releases page](https://github.com/Blin
 1. Download the latest `.dmg` from the [Releases page](https://github.com/Blinktwenty/releases/releases/latest).
 2. Open the `.dmg` and drag **Blink20** into your **Applications** folder.
 3. On first launch, macOS may warn that the app is from an unidentified developer. Right-click the app → **Open** → **Open** to confirm.
+
+### Installing on Windows
+
+1. Download the latest `.msi` from the [Releases page](https://github.com/Blinktwenty/releases/releases/latest).
+2. Run the installer. It is not yet code-signed, so Windows SmartScreen may warn about an unrecognized publisher — click **More info** → **Run anyway** to continue.
+3. Follow the setup wizard; Blink20 is added to the Start Menu and can be launched from there.
 
 ## Repository Layout
 
